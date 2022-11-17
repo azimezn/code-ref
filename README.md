@@ -12,5 +12,8 @@ https://azimezn.github.io/code-ref/
 ## Screenshot
 <img src="./assets/images/Horiseon-screenshot.png" />
 
+## License
+Please refer to the LICENSE in the repo.
+
 ## Contact
 email: azimeznail@gmail.com
